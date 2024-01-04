@@ -38,6 +38,7 @@ The colors of the bubbles are based on otu_ids, and the hover text is the otu_la
 •	Guage chart
 A gauge chart is generated when a test subject is selected on the dropdown menu.
 The value of scrubs per week  is displayed on a gauge chart.
+
  ![image](https://github.com/hidyv/belly-button-biodiversity-challenge/assets/25726099/3ae630de-e35d-4ee4-828f-fdea6d3aae99)
 
 

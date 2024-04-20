@@ -2,7 +2,7 @@
 
 
 
-This interactive dashboard catalogs the microbes that colonize the human naval. The data is accessed from http://robdunnlab.com/projects/belly-button-biodiversity.
+This interactive dashboard catalogs the microbes that colonize the human naval. The data is accessed from http://robdunnlab.com/projects/belly-button-biodiversity. The dashboard is created using D3.js library.
 
 ![image](https://github.com/hidyv/belly-button-biodiversity-challenge/assets/25726099/3f68315f-4130-4015-ba15-79deef383a70)
 
